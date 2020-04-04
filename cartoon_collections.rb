@@ -14,5 +14,4 @@ end
 
 def find_the_cheese(array)
   array.detect { |n| n == "cheddar" || n == "gouda" || n == "camembert" }
-  cheese_types = ["cheddar", "gouda", "camembert"]
 end
