@@ -1,4 +1,7 @@
-def roll_call_dwarves# code an argument here
+def roll_call_dwarves(dwarves)
+  dwarf_names = []
+  i = 0 
+  while i < dwarves.
   # Your code here
 end
 
