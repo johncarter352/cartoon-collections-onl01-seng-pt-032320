@@ -18,4 +18,5 @@ def find_the_cheese(array)
     return cheese_type
   else
     false 
+  end
 end
